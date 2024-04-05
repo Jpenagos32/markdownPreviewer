@@ -93,13 +93,18 @@ function App() {
         </button>
       </section>
       <footer>
-        <p>Coded By Julian Penagos</p>
-        <a href="mailto: jpenagosdev@gmail.com">
-          <CgMail /> jpenagosdev@gmail.com
-        </a>
-        <a target='_blank' href="https://github.com/Jpenagos32">
-          <FaGithub /> Github: /jpenagos32
-        </a>
+        <p>
+          Coded By: <a href='https://www.linkedin.com/in/julian-andres-penagos/' target='_blank'>Julian Penagos</a>
+        </p>
+
+        <p>
+          <CgMail /><a href="mailto: jpenagosdev@gmail.com">jpenagosdev@gmail.com</a>
+        </p>
+
+        <p>
+
+        <FaGithub /> Github: <a target='_blank' href="https://github.com/Jpenagos32">/jpenagos32</a>
+        </p>
       </footer>
     </>
   )
